@@ -1,9 +1,6 @@
 # SubTracer
 SubTracer is a Python script for subdomain enumeration. It automates discovering subdomains for a given domain and extracting the results into a file.
 
-# SubHunter
-SubHunter is a Python script for subdomain enumeration. It automates discovering subdomains for a given domain and extracting the results into a file. 
-
 🛠️ Features
 
     Subdomain Discovery: Enumerates subdomains for a specified domain using SubHunter.
