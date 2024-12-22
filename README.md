@@ -17,19 +17,21 @@ Before running the script, you must install Python 3 on your system.
 
 STEPS :
 
-git clone https://github.com/v1ck3/SubHunter.git
+git clone https://github.com/v1ck3/SubTracer.git
 
-cd SubHunter
+chmod +w SubTracer
+
+cd SubTracer
 
 pip3 install pyfiglet
 
 🖥️ Usage
 
-python3 SubHunter.py <domain>
+python3 SubTracer.py <domain>
 
 Example:
 
-python3 SubHunter.py example.com
+python3 SubTracer.py example.com
 
 Output:
 
